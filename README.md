@@ -1,12 +1,13 @@
 ![LibreSpeed Logo](https://github.com/librespeed/speedtest/blob/master/.logo/logo3.png?raw=true)
 
+[English version](https://github.com/kemi-20/speedtest/blob/master/README_en.md)
 # LibreSpeed
 
-No Flash, No Java, No Websocket, No Bullshit.
+没有 Flash，没有 Java，没有 Websocket，没有废话。
 
-This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
+这是一个用 Javascript 实现的非常轻量级的 Speedtest，使用 XMLHttpRequest 和 Web Workers。
 
-## Try it
+## 试试吧
 [Take a Speedtest](https://librespeed.org)
 
 ## Compatibility
