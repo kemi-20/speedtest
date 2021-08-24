@@ -2,7 +2,7 @@
 
 # LibreSpeed
 
-No Flash, No Java, No Websocket, No Bullshit.
+没有 Flash，没有 Java，没有 Websocket，没有废话。
 
 This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
 
