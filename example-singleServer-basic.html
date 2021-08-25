@@ -7,18 +7,18 @@
 </head>
 <script type="text/javascript" src="speedtest.js"></script>
 <body>
-    <h1>LibreSpeed Example</h1>
+    <h1>LibreSpeed 演示</h1>
 
-    <h4>IP Address</h4>
+    <h4>IP 地址</h4>
     <p id="ip"></p>
 
-    <h4>Download</h4>
+    <h4>下载</h4>
     <p id="download"></p>
 
-    <h4>Upload</h4>
+    <h4>上传</h4>
     <p id="upload"></p>
 
-    <h4>Latency</h4>
+    <h4>延时</h4>
     <p id="ping"></p>
 
     <script type="text/javascript">
@@ -26,13 +26,13 @@
         s.onupdate = function (data) { // when status is received, put the values in the appropriate fields
             document.getElementById('download').textContent = data.dlStatus + ' Mbit/s'
             document.getElementById('upload').textContent = data.ulStatus + ' Mbit/s'
-            document.getElementById('ping').textContent = data.pingStatus + ' ms, ' + data.jitterStatus + ' ms jitter'
+            document.getElementById('ping').textContent = 'Ping：'data.pingStatus + ' ms，' + '抖动：'data.jitterStatus + ' ms'
             document.getElementById('ip').textContent = data.clientIp
         }
         s.start(); // start the speedtest with default settings
     </script>
 
-	<a href="https://github.com/librespeed/speedtest">Source code</a>
+	<a href="https://github.com/kemi-20/speedtest">网站源码</a>
 
 </body>
 </html>
