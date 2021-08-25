@@ -50,7 +50,7 @@
 
 ## 捐赠
 [![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
+[PayPal捐赠](https://www.paypal.me/sineisochronic)  
 
 ## 执照
 版权所有 (C) 2016-2021 Federico Dossena
