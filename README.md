@@ -42,11 +42,11 @@
 ## Docker
 [Docker Hub](https://registry.hub.docker.com/r/adolfintel/speedtest)上提供了一个 docker 映像，请参阅 `doc_docker.md` 以获取有关它的更多信息。
 
-## Go backend
-A Go implementation is available in the [`speedtest-go`](https://github.com/librespeed/speedtest-go) repo, maintained by [Maddie Zhan](https://github.com/maddie).
+## Go 后端
+由 [Maddie Zhan](https://github.com/maddie) 维护的 [`speedtest-go`](https://github.com/librespeed/speedtest-go) 存储库中提供了 Go 实现。
 
-## Node.js backend
-A partial Node.js implementation is available in the `node` branch, developed by [dunklesToast](https://github.com/dunklesToast). It's not recommended to use at the moment.
+## Node.js 前端
+由 [dunklesToast](https://github.com/dunklesToast) 开发的 `node` 分支中提供了部分Node.js实现。暂时不推荐使用。
 
 ## Donate
 [![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
