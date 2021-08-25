@@ -36,14 +36,6 @@
 ## 安装视频
 * [Ubuntu Server 19.04 快速入门安装指南](https://fdossena.com/?p=speedtest/quickstart_v5_ubuntu.frag)
 
-## 部署到 Heroku  
-官网: https://heroku.com  
-演示: https://herooneindex.herokuapp.com/  
-
-如何安装:   
-> 单击按钮 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 部署新应用程序。
-> （若出现`"We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy."`，fork 这个项目，创建一个 heroku 应用程序，然后转到 Deploy 选项卡，通过连接到你的 github fork 进行部署。） 
-
 ## Android应用
  [此处](https://github.com/librespeed/speedtest-android)提供了为 LibreSpeed 安装构建 Android 客户端的模板。
 
