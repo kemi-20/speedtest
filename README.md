@@ -1,4 +1,4 @@
-![LibreSpeed Logo](https://github.com/kemi-20/speedtest/blob/master/.logo/logo3.png?raw=true)
+![LibreSpeed Logo](https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9vaGFvLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2tlbWkyMF9vaGFvX25ldC9FVDNDZHR0cjJlRkZ0ZzluQl9XbWhLWUJkZzladVZPT18wdkRaRm5WQ1VQekVBP2U9eVVjMU1k.png)
 
 [English version](https://github.com/kemi-20/speedtest/blob/master/README_en.md)
 # LibreSpeed
