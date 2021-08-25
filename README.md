@@ -48,10 +48,6 @@
 ## Node.js 前端
 由 [dunklesToast](https://github.com/dunklesToast) 开发的 `node` 分支中提供了部分Node.js实现。暂时不推荐使用。
 
-## 捐赠
-[![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[PayPal捐赠](https://www.paypal.me/sineisochronic)  
-
 ## 执照
 版权所有 (C) 2016-2021 Federico Dossena
 
