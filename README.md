@@ -67,6 +67,6 @@
 
 您应该已经收到一份 GNU 宽松通用公共许可证的副本随着这个程序。 如果没有，请参阅 <https://www.gnu.org/licenses/lgpl>.
 
-##中文翻译
+## 中文翻译
 翻译by Bilibili@kemi一往无前，若有侵权，请联系我：
 [3561632338@qq.com](mailto:3561632338@qq.com)
