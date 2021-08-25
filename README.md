@@ -27,20 +27,20 @@
 ![Screenshot](https://speedtest.fdossena.com/mpot_v6.gif)
 
 
-## Server requirements
-* A reasonably fast web server with Apache 2 (nginx, IIS also supported)
-* PHP 5.4 (other backends also available)
-* MySQL database to store test results (optional, PostgreSQL and SQLite also supported)
-* A fast! internet connection
+## 服务器要求
+* 带有 Apache 2 的相当快的 Web 服务器（也支持 nginx、IIS）
+* PHP 5.4（其他后端也可用）
+* 用于存储测试结果的 MySQL 数据库（可选，也支持 PostgreSQL 和 SQLite）
+* 一个快的互联网连接！
 
-## Installation videos
-* [Quick start installation guide for Ubuntu Server 19.04](https://fdossena.com/?p=speedtest/quickstart_v5_ubuntu.frag)
+## 安装视频
+* [Ubuntu Server 19.04 快速入门安装指南](https://fdossena.com/?p=speedtest/quickstart_v5_ubuntu.frag)
 
-## Android app
-A template to build an Android client for your LibreSpeed installation is available [here](https://github.com/librespeed/speedtest-android).
+## Android应用
+ [此处](https://github.com/librespeed/speedtest-android)提供了为 LibreSpeed 安装构建 Android 客户端的模板。
 
 ## Docker
-A docker image is available on the [Docker Hub](https://registry.hub.docker.com/r/adolfintel/speedtest), see `doc_docker.md` for more info about it
+[Docker Hub](https://registry.hub.docker.com/r/adolfintel/speedtest)上提供了一个 docker 映像，请参阅 `doc_docker.md` 以获取有关它的更多信息。
 
 ## Go backend
 A Go implementation is available in the [`speedtest-go`](https://github.com/librespeed/speedtest-go) repo, maintained by [Maddie Zhan](https://github.com/maddie).
