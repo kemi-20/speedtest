@@ -8,21 +8,21 @@
 这是一个用 Javascript 实现的非常轻量级的 Speedtest，使用 XMLHttpRequest 和 Web Workers。
 
 ## 试试吧
-[Take a Speedtest](https://librespeed.org)
+[进行速度测试](https://librespeed.org)
 
-## Compatibility
-All modern browsers are supported: IE11, latest Edge, latest Chrome, latest Firefox, latest Safari.  
-Works with mobile versions too.
+## 兼容性
+支持所有现代浏览器：IE11、最新版 Edge、最新版 Chrome、最新版 Firefox、最新版 Safari。
+也适用于移动版本。
 
-## Features
-* Download
-* Upload
+## 特点
+* 下载
+* 上传
 * Ping
-* Jitter
-* IP Address, ISP, distance from server (optional)
-* Telemetry (optional)
-* Results sharing (optional)
-* Multiple Points of Test (optional)
+* 抖动
+* IP 地址、ISP、与服务器的距离（可选）
+* 遥测（可选）
+* 结果共享（可选）
+* 多个测试点（可选）
 
 ![Screenshot](https://speedtest.fdossena.com/mpot_v6.gif)
 
