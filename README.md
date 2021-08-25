@@ -48,22 +48,22 @@
 ## Node.js 前端
 由 [dunklesToast](https://github.com/dunklesToast) 开发的 `node` 分支中提供了部分Node.js实现。暂时不推荐使用。
 
-## Donate
+## 捐赠
 [![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
 [Donate with PayPal](https://www.paypal.me/sineisochronic)  
 
-## License
-Copyright (C) 2016-2021 Federico Dossena
+## 执照
+版权所有 (C) 2016-2021 Federico Dossena
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Lesser General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+该程序是免费软件：您可以重新分发和/或修改
+它根据由发布的 GNU 宽松通用公共许可证的条款
+自由软件基金会，许可证的第 3 版，或
+（由您选择）任何更高版本。
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+这个程序是分发的，希望它有用，
+但没有任何保证； 甚至没有暗示的保证
+特定用途的适销性或适用性。 见
+有关更多详细信息，请参阅 GNU 通用公共许可证。
 
-You should have received a copy of the GNU Lesser General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/lgpl>.
+您应该已经收到一份 GNU 宽松通用公共许可证的副本
+随着这个程序。 如果没有，请参阅 <https://www.gnu.org/licenses/lgpl>.
