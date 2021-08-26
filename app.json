@@ -3,10 +3,13 @@
   "description": "Deploy Speedtest_zh_CN to heroku",
   "website": "https://github.com/kemi-20/Speedtest_zh_CN",
   "repository": "https://github.com/kemi-20/Speedtest_zh_CN",
-  "success_url": "/"
+  "success_url": "/",
   "buildpacks": [
     {
-      "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+    },
+    {
+      "url": "Heroku/PHP"
     }
-  ],
+  ]
 }
