@@ -4,4 +4,12 @@
   "website": "https://github.com/kemi-20/Speedtest_zh_CN",
   "repository": "https://github.com/kemi-20/Speedtest_zh_CN",
   "success_url": "/"
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+    },
+    {
+      "url": "Heroku/PHP"
+    }
+  ]
 }
