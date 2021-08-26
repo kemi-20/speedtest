@@ -9,7 +9,7 @@
       "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
     },
     {
-      "url": "Heroku/PHP"
+      "url": "heroku/html"
     }
   ]
 }
